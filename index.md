@@ -1,8 +1,3 @@
----
-title: Welcome to my blog
----
----
-
 ## About Me  
 
 I am a **product designer** and **preproduction engineer** specializing in **hardware design**, **system integration**, and **prototype development**. With experience in **2.5-axis machining**, and **additive manfacturing** such as **FDM & SLS printing**, I work with **hard plastics** and **polyethylene foam**, creating functional and manufacturable solutions tailored to client needs.  
@@ -15,7 +10,7 @@ I have a strong background in **product management**, overseeing projects from c
 ✔ **Product Design & Development**  
 ✔ **Hardware UX & System Integration**  
 ✔ **Prototype, Preproduction & Mass Production Engineering**  
-✔ **Hard Plastics & Polyethylene Foam Fabrication**  
+✔ **Hard Plastics & Polyethylene Foam Machining**  
 ✔ **2.5-Axis Machining & Additive Machining**  
 ✔ **FDM & SLS 3D Printing**  
 ✔ **Product Management & Lean Production**  
